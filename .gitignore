@@ -1,0 +1,9 @@
+node_modules
+dist
+*.log
+.DS_Store
+.vite
+
+# research brief stays local: it holds internal pitch notes, not code
+CarMax_RYK_Website_Research_Brief.docx
+test-results
